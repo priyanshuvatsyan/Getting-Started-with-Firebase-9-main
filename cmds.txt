@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=vK2NoOoqyRo&list=PL4cUxeGkcC9jERUGvbudErNCeSZHWUVlb&index=2
+
+Webpack is a JavaScript library that bundles JavaScript applications into one or more files, often a single file, to optimize loading times for browsers.
+
+npm init -y - > to create a new json file package
+npm i webpack webpack-cli -D -> to install webpacks
